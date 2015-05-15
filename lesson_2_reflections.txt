@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+Initializing a repository is what creates the hidden git files that save 
+all of your commits.  Saving your commits is necessary because that is 
+how you can compare multiple old scripts.
